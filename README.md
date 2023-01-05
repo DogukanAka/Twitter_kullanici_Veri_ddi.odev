@@ -10,8 +10,13 @@
 7.	Ayırılan grupların ortalama vektörlerini kelimelere çevirir ve bu kelimeleri grupların oluşturulma kriterleri olarak kullanırız.
 
 
+Örnek olarak;
+
+Aşağıdaki görselden kümelere bölünen gruplar arasından ilk grubun Mansur Yavaş'ın dilemiş olduğu baş sağlığı dilekleri hakkında olduğu, ikinci grubun sağlık,huzur ve günaydın dileklerini ileten tweetleri hakkında olduğu, üçüncü grubun yapmış olduğu kutlamalar hakkında attığı tweetleri, dördüncu grubun 
+yaşanmış olan kayıplar hakkında taziyelerini belirten tweetleri hakkında ve son grubun ise beledeiye meclisinde düzenlenen basın toplantıları hakında olduğunu anlayabiliriz.
+
 <img width="858" alt="Ekran Resmi 2023-01-05 22 52 00" src="https://user-images.githubusercontent.com/101113336/210868069-2ba8b83d-828a-4ee7-bbb5-55de64efa554.png">
 
-
+İstersek de konu başlıklarını grafikte göstererek hangi konular hakkında daha fazla tweetler attığınıda inceleyebilriz.
 
 <img width="1135" alt="Ekran Resmi 2023-01-05 22 51 38" src="https://user-images.githubusercontent.com/101113336/210868098-70189f8a-d710-4c94-a2d0-1f1c5c5895e2.png">
