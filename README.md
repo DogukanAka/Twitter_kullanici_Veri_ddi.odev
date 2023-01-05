@@ -6,7 +6,7 @@
 3.	Tweetlerin içeriğini temizlemek için bir fonksiyon yazılır. Bu fonksiyon, tweetleri lowercase hale getirir, URL'leri siler, punctuation karakterlerini çıkartır ve kelimelere ayrılır. Daha sonra, tweetlerdeki kelimelerden stopwords (çok sık kullanılan ve anlamı olmayan kelimeler) çıkartılır. Bunun yanı sıra, kendi oluşturduğumuz bir stopwords listesiyle tweetlerdeki belirli kelimeler de çıkartılır.
 4.	Temizlenen tweetler kontrol amaçlı oluşturulan cleanedtweets.csv isimli dosyayada kontrol edilir.
 5.	Temizlenen tweetleri tekrar veri çerçevesine atarız ve TfidfVectorizer kullanarak tweetleri vektörize ederiz. TfidfVectorizer, verilen metinleri sayısal değerler dizisi olarak ifade eden bir yöntemdir. Böylece, tweetler arasındaki benzerlikleri daha kolay tespit etmemizi sağlar.
-6.	Vektörize edilen tweetleri KMeans yöntemiyle belirli bir sayıda gruba (kümelere) ayırırız. Bu kodta, küme sayısı 5 olarak belirlenmiştir.
+6.	Vektörize edilen tweetleri KMeans yöntemiyle belirli bir sayıda gruba (kümelere) ayırırız. Bu kodda, küme sayısı 5 olarak belirlenmiştir.
 7.	Ayırılan grupların ortalama vektörlerini kelimelere çevirir ve bu kelimeleri grupların oluşturulma kriterleri olarak kullanırız.
 
 
@@ -20,3 +20,6 @@ yaşanmış olan kayıplar hakkında taziyelerini belirten tweetleri hakkında v
 İstersek de konu başlıklarını grafikte göstererek hangi konular hakkında daha fazla tweetler attığınıda inceleyebilriz.
 
 <img width="1135" alt="Ekran Resmi 2023-01-05 22 51 38" src="https://user-images.githubusercontent.com/101113336/210868098-70189f8a-d710-4c94-a2d0-1f1c5c5895e2.png">
+
+
+Öğrenci adı: Rıza Doğukan AKA - NO:193405001   //  Berkay Ali KANDEMİR - NO:193405031
