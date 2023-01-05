@@ -10,3 +10,8 @@
 7.	Ayırılan grupların ortalama vektörlerini kelimelere çevirir ve bu kelimeleri grupların oluşturulma kriterleri olarak kullanırız.
 
 
+<img width="858" alt="Ekran Resmi 2023-01-05 22 52 00" src="https://user-images.githubusercontent.com/101113336/210868069-2ba8b83d-828a-4ee7-bbb5-55de64efa554.png">
+
+
+
+<img width="1135" alt="Ekran Resmi 2023-01-05 22 51 38" src="https://user-images.githubusercontent.com/101113336/210868098-70189f8a-d710-4c94-a2d0-1f1c5c5895e2.png">
