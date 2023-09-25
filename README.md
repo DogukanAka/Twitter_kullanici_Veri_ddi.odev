@@ -22,4 +22,3 @@ yaşanmış olan kayıplar hakkında taziyelerini belirten tweetleri hakkında v
 <img width="1135" alt="Ekran Resmi 2023-01-05 22 51 38" src="https://user-images.githubusercontent.com/101113336/210868098-70189f8a-d710-4c94-a2d0-1f1c5c5895e2.png">
 
 
-Öğrenci adı: Rıza Doğukan AKA - NO:193405001   //  Berkay Ali KANDEMİR - NO:193405031
